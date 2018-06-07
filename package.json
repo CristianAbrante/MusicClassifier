@@ -1,0 +1,10 @@
+{
+  "name": "MusicClassifier",
+  "version": "0.0.1",
+  "dependencies": {
+    "csv-parser": "^1.12.1"
+  },
+  "scripts": {
+    "start": "node lib/index.js data/lyrics.csv"
+  }
+}
